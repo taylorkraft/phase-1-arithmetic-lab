@@ -9,3 +9,5 @@ const num3 = 34
 const num4 = 5
 
 const mod = num3 % num4
+
+const max = Math.ceil(Math.max(20))
